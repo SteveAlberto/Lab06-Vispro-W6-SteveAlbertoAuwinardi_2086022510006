@@ -1,0 +1,122 @@
+[
+    { 
+        "id": "B001", 
+        "title": "Laskar Pelangi", 
+        "author": "Andrea Hirata", 
+        "replacementPrice": 95000 
+    },
+    { 
+        "id": "B002", 
+        "title": "Sang Pemimpi", 
+        "author": "Andrea Hirata", 
+        "replacementPrice": 90000 
+    },
+    { 
+        "id": "B003", 
+        "title": "Bumi Manusia", 
+        "author": "Pramoedya Ananta Toer", 
+        "replacementPrice": 125000 
+    },
+    { 
+        "id": "B004", 
+        "title": "Atomic Habits", 
+        "author": "James Clear", 
+        "replacementPrice": 110000 
+    },
+    { 
+        "id": "B005", 
+        "title": "Filosofi Teras", 
+        "author": "Henry Manampiring", 
+        "replacementPrice": 98000 
+    },
+    { 
+        "id": "B006", 
+        "title": "Sapiens", 
+        "author": "Yuval Noah Harari", 
+        "replacementPrice": 150000 
+    },
+    { 
+        "id": "B007", 
+        "title": "Laut Bercerita", 
+        "author": "Leila S. Chudori", 
+        "replacementPrice": 105000 
+    },
+    { 
+        "id": "B008", 
+        "title": "Cantik Itu Luka", 
+        "author": "Eka Kurniawan", 
+        "replacementPrice": 115000 
+    },
+    { 
+        "id": "B009", 
+        "title": "Negeri 5 Menara", 
+        "author": "A. Fuadi", 
+        "replacementPrice": 85000 
+    },
+    { 
+        "id": "B010", 
+        "title": "Dilan 1990", 
+        "author": "Pidi Baiq", 
+        "replacementPrice": 79000 
+    },
+    { 
+        "id": "B011", 
+        "title": "Sebuah Seni untuk Bersikap Bodo Amat", 
+        "author": "Mark Manson", 
+        "replacementPrice": 85000 
+    },
+    { 
+        "id": "B012", 
+        "title": "Rich Dad Poor Dad", 
+        "author": "Robert T. Kiyosaki", 
+        "replacementPrice": 99000 
+    },
+    { 
+        "id": "B013", 
+        "title": "Pulang", 
+        "author": "Tere Liye", 
+        "replacementPrice": 95000 
+    },
+    { 
+        "id": "B014", 
+        "title": "Bumi", 
+        "author": "Tere Liye", 
+        "replacementPrice": 100000 
+    },
+    { 
+        "id": "B015", 
+        "title": "Harry Potter dan Batu Bertuah", 
+        "author": "J.K. Rowling", 
+        "replacementPrice": 120000 
+    },
+    { 
+        "id": "B016", 
+        "title": "Perahu Kertas", 
+        "author": "Dee Lestari", 
+        "replacementPrice": 109000 
+    },
+    { 
+        "id": "B017", 
+        "title": "Ronggeng Dukuh Paruk", 
+        "author": "Ahmad Tohari", 
+        "replacementPrice": 89000 
+    },
+    { 
+        "id": "B018", 
+        "title": "Gadis Kretek", 
+        "author": "Ratih Kumala", 
+        "replacementPrice": 99000 
+    },
+    { 
+        "id": "B019", 
+        "title": "Homo Deus", 
+        "author": "Yuval Noah Harari", 
+        "replacementPrice": 150000 
+    },
+    { 
+        "id": "B020", 
+        "title": "Supernova: Ksatria, Puteri, dan Bintang Jatuh", 
+        "author": "Dee Lestari", 
+        "replacementPrice": 99000 
+    }
+]
